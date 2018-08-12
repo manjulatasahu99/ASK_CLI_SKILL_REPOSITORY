@@ -1,4 +1,4 @@
-alexa ask MyCompany for my employeeid#"Your employee id is 1000000"
-alexa ask MyCompany for my current role#"Your current role is Manager"
-alexa ask MyCompany for my salary hike#"Sorry, I cant do this"
-alexa ask MyCompany for my promotion#"Sorry, I could not recognize it"
+alexa ask myprofile for my employee id#"Your employee id is 1000000"
+alexa ask myprofile for my current role#"Your current role is Manager"
+alexa ask myprofile for my base location#"Its Bhubaneswar!"
+alexa ask myprofile for my current location#"Its Pocharam Village, Telengana!"
