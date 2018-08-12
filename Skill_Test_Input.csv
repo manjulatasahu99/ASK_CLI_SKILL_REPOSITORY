@@ -1,3 +1,4 @@
 alexa ask MyCompany for my employeeid#"Your employee id is 1000000"
 alexa ask MyCompany for my current role#"Your current role is Manager"
 alexa ask MyCompany for my salary hike#"Sorry, I cant do this"
+alexa ask MyCompany for my promotion#"Sorry, I could not recognize it"
